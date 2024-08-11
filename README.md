@@ -11,3 +11,19 @@ The Smart Fan Controlling System is an innovative project that uses image proces
   <li>Utilizes Arduino and PyFirmata for hardware control of the fan.</li>
 </ul>
 
+<b>Requirements
+<ul style="list-style-type:disc;">
+  <li>Python 3.x</li>
+  <li>OpenCV</li>
+  <li>pyfirmata</li>
+  <li>Arduino board</li>
+</ul>
+
+<b>Installation
+<ol type="1">
+  <li>Clone the repository:</li>
+  <li><ul style="list-style-type:disc;">
+    <li>git clone https://github.com/your-username/smart-fan-control.git</li>
+    <li>cd smart-fan-control</li>
+  </ul>
+  </li>
