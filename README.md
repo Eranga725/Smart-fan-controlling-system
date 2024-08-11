@@ -26,6 +26,7 @@ The Smart Fan Controlling System is an innovative project that uses image proces
     <li>git clone https://github.com/your-username/smart-fan-control.git</li>
     <li>cd smart-fan-control</li>
   </ul>
+  <br>
   <li>
     Install the required Python packages:
   </li>
