@@ -29,4 +29,9 @@ The Smart Fan Controlling System is an innovative project that uses image proces
   <br>
   <li>
     Install the required Python packages:
+  <ul style="list-style-type:disc;">
+    <li>pip install opencv-python cvzone pyfirmata</li>
+  </ul>    
   </li>
+<br>
+<li>Connect your Arduino board to your computer.</li>
