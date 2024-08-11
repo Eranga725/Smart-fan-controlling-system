@@ -3,9 +3,10 @@ The Smart Fan Controlling System is an innovative project that uses image proces
 
 # Table of Contents
 <ul style="list-style-type:disc;">
-  <li>[Recognizes different hand gestures to control fan speed and direction.](https://github.com/Eranga725/Smart-fan-controlling-system?tab=readme-ov-file#introduction)</li>
-  <li>Provides real-time feedback on the recognized gesture and the corresponding fan state.</li>
-  <li>Utilizes Arduino and PyFirmata for hardware control of the fan.</li>
+  <li>Introduction</li>
+  <li>Features</li>
+  <li>Requirements</li>
+  <li>Installation</li>
 </ul>
 
 # Introduction
