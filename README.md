@@ -1,5 +1,5 @@
-Smart Fan Controlling System
-This project is a smart fan-controlling system using image processing and hand gesture recognition. The system uses a webcam to detect hand gestures and controls the speed and direction of a fan based on the recognized gestures.
+# Smart-fan-controlling-system
+The Smart Fan Controlling System is an innovative project that uses image processing and hand gesture recognition to control the speed and direction of a fan. By leveraging a webcam, OpenCV, and the cvzone library, this system captures real-time video to detect hand gestures, which are then translated into commands for the fan.
 
 Table of Contents
 Introduction
