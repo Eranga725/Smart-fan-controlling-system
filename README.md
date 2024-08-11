@@ -4,26 +4,10 @@ The Smart Fan Controlling System is an innovative project that uses image proces
 # Table of Contents
 
 # Introduction
-Features
-Requirements
-Installation
-Usage
-Contributing
-License
-Introduction
-The smart fan controlling system leverages OpenCV for image processing and hand gesture recognition. It uses a webcam to capture real-time video, detect hand gestures, and control the fan's speed and direction based on the gestures.
-
-# Features
-Recognizes different hand gestures to control fan speed and direction.
-Provides real-time feedback on the recognized gesture and the corresponding fan state.
-Utilizes Arduino and PyFirmata for hardware control of the fan.
-
-# Requirements
-Python 3.x
-OpenCV
-cvzone
-pyfirmata
-Arduino board
-Installation
-Clone the repository:
+<b>Features
+<ul style="list-style-type:disc;">
+  <li>Recognizes different hand gestures to control fan speed and direction.</li>
+  <li>Provides real-time feedback on the recognized gesture and the corresponding fan state.</li>
+  <li>Utilizes Arduino and PyFirmata for hardware control of the fan.</li>
+</ul>
 
