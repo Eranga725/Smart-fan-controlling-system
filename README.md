@@ -23,7 +23,7 @@ The Smart Fan Controlling System is an innovative project that uses image proces
 <ol type="1">
   <li>Clone the repository:</li>
   <ul style="list-style-type:disc;">
-    <li>git clone https://github.com/your-username/smart-fan-control.git</li>
+    <li>git clone https://github.com/Eranga725/Smart-fan-controlling-system</li>
     <li>cd smart-fan-control</li>
   </ul>
   <br>
